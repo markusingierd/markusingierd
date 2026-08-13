@@ -16,11 +16,10 @@ I am a **Software & Mobile Developer** with a Bachelor's degree in Information T
 
 ### 🚀 Highlighted Projects
 
-- 📱 **[BOP3000 (Kulturminner)](https://github.com/markusingierd/BOP3000):** Location-based Native Android app built with Kotlin, Jetpack Compose, Mapbox SDK and Firebase.
-- 📊 **[BigFive Dashboard](https://github.com/markusingierd/BigFive):** Interactive frontend web application for rubyNor to compare candidate personality tests, built in Next.js 14 & TypeScript.
-- 🤖 **[jobAgent](https://github.com/markusingierd/jobAgent):** Python automation script & AI agents for scraping FINN.no job listings and generating tailored cover letters.
-
----
+- 📱 **[BOP3000](https://github.com/markusingierd/BOP3000):** Bachelor thesis project. A location-based Native Android app providing GPS-triggered tour guide content (text, audio, map routes) using Kotlin, Jetpack Compose, Mapbox SDK, and Firebase.
+- 📊 **[BigFive](https://github.com/markusingierd/BigFive):** Frontend web application developed during internship at rubyNor. A dashboard for comparing candidate personality assessment results built with Next.js 14, React, and TypeScript.
+- 🔍 **[FinnJobScout](https://github.com/markusingierd/FinnJobScout):** Python tool that scrapes developer listings from FINN.no, extracts Schema.org JSON-LD data, and filters/scores positions based on tech stack match.
+- 🎮 **[Worlde](https://github.com/markusingierd/Worlde):** A homemade Wordle game built in JavaScript allowing endless 5-letter word puzzles without the 24-hour daily limit.
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/markusingierd](https://www.linkedin.com/in/markusingierd/)
